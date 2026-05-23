@@ -1,4 +1,4 @@
-module Act10
+module Act10_DEMUX
 (
     input [1:0] sel,
     input i,
